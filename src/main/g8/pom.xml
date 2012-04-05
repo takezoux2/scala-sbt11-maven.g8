@@ -19,12 +19,12 @@
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
-            <version>$${scala.version}</version>
+            <version>\${scala.version}</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>org.specs2</groupId>
-            <artifactId>specs2_$${scala.version}</artifactId>
+            <artifactId>specs2_\${scala.version}</artifactId>
             <version>1.8.2</version>
             <scope>test</scope>
         </dependency>
