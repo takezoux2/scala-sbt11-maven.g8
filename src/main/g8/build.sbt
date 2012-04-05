@@ -1,6 +1,6 @@
 name := "$name$"
 
-organization := "$artifactId$"
+organization := "$groupId$"
 
 version := "$version$"
 
