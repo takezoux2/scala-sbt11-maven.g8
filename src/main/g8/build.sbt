@@ -1,10 +1,10 @@
-name := $name$
+name := "$name$"
 
-organization := $artifactId$
+organization := "$artifactId$"
 
-version := $version$
+version := "$version$"
 
-scalaVersion := $scalaVersion$
+scalaVersion := "$scalaVersion$"
 
 resolvers += Resolver.mavenLocal
 
